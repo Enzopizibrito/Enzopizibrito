@@ -44,13 +44,7 @@ Meu objetivo? Me tornar um desenvolvedor full-stack e criar soluções incrívei
 
 ---
 
-<div align="center">
-  
-![Snake animation](https://github.com/enzopizi/Enzopizibrito/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-> *"A jornada de mil milhas começa com um único commit"* ✨
+> *"The future belongs to those who understand technology and design it to serve people"* ✨
 
 --- 
 *README atualizado em: 02/09/2025*
